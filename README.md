@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1><p align="center">Hello, my name is Meguedmini Mohamed </p>
 
-<!--
-**bbird-21/bbird-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&size=70&pause=1000&color=02B5F7&center=true&vCenter=true&random=false&width=2600&height=150&lines=They+dit+not+know+it+was+impossible%2C;So+they+dit+it.)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## <br>💫 About me
+:student: Student at 42 School.  
+👀 I'm interested at CyberSecurity, Computer programming and Electronic programming  
+❤️ I love DIY and I am always interested in new fun experiments.  
+📫 You can reach me at mmeguedm@student42.fr or m.bbird21@proton.me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+## <br>📊 GitHub Stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbird-21&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbird-21&theme=radical)
