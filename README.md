@@ -1,4 +1,4 @@
-<h1><p align="center">Hello, my name is Meguedmini Mohamed </p>
+<h1><p align="center">Hello</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&size=70&color=02B5F7&center=true&vCenter=true&random=false&width=2600&height=150&lines=They+dit+not+know+it+was+impossible%2C;So+they+dit+it.)](https://git.io/typing-svg)
 
